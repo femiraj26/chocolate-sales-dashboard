@@ -1,8 +1,5 @@
 # chocolate-sales-dashboard
 An Excel dashboard project analyzing chocolate sales using PivotTables and charts
-# 🍫 Chocolate Sales Dashboard (Excel)
-
-This project showcases an **interactive Excel dashboard** analyzing chocolate sales data across various countries, products, and salespeople.
 
 The dashboard uses:
 - 📊 PivotTables
